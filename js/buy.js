@@ -16,7 +16,7 @@ Vue.component('vids', {
             
                     <div class="Flex_bg">
                         <div class="vidCont">
-                            <iframe class="actVid" src="https://www.youtube.com/embed/vPguoeYTvMI" frameborder="0" allowfullscreen></iframe>
+                            <iframe class="actVid" src="https://www.youtube.com/embed/vPguoeYTvMI" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
                         </div>
                     <div class="metal m_border">
                         <button class="g_border" id="bnet">Play now for free</button>
